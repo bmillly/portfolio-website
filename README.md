@@ -8,6 +8,7 @@ Next Steps – 
 Create first project link
 – React blog website to hold translator information – https://www.youtube.com/watch?v=zL0dKETbCNE
 – Translator – https://www.youtube.com/watch?v=LiLlsGUW4AQ
+– If I feel like making the blog in Vue-js https://www.youtube.com/watch?v=ISv22NNL-aE
 
 Special thanks to Ania Kubow for guidance and tutorial. 
 
